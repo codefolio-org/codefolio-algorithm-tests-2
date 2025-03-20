@@ -1,0 +1,13 @@
+# node_modulesをGitの管理外に
+node_modules/
+
+# テストカバレッジやビルド出力などを無視
+coverage/
+
+# ログファイル
+logs
+*.log
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db

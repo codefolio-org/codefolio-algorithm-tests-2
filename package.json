@@ -1,0 +1,14 @@
+{
+  "name": "codefolio-algorithm-tests",
+  "version": "1.0.0",
+  "description": "未経験者・ジュニアエンジニア向けのアルゴリズム課題集",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
